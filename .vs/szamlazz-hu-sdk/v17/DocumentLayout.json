@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tibor\\source\\repos\\szamlazz-hu-sdk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFD8551-5C67-45FE-B655-C3AA2F10D233}|SzamlazzHuSDK\\SzamlazzHuSDK.csproj|c:\\users\\tibor\\source\\repos\\szamlazz-hu-sdk\\szamlazzhusdk\\stornoinvoicerequest.sbn||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3FFD8551-5C67-45FE-B655-C3AA2F10D233}|SzamlazzHuSDK\\SzamlazzHuSDK.csproj|solutionrelative:szamlazzhusdk\\stornoinvoicerequest.sbn||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFD8551-5C67-45FE-B655-C3AA2F10D233}|SzamlazzHuSDK\\SzamlazzHuSDK.csproj|c:\\users\\tibor\\source\\repos\\szamlazz-hu-sdk\\szamlazzhusdk\\requests\\stornoinvoicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFD8551-5C67-45FE-B655-C3AA2F10D233}|SzamlazzHuSDK\\SzamlazzHuSDK.csproj|solutionrelative:szamlazzhusdk\\requests\\stornoinvoicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFD8551-5C67-45FE-B655-C3AA2F10D233}|SzamlazzHuSDK\\SzamlazzHuSDK.csproj|c:\\users\\tibor\\source\\repos\\szamlazz-hu-sdk\\szamlazzhusdk\\getinvoicerequest.sbn||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3FFD8551-5C67-45FE-B655-C3AA2F10D233}|SzamlazzHuSDK\\SzamlazzHuSDK.csproj|solutionrelative:szamlazzhusdk\\getinvoicerequest.sbn||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFD8551-5C67-45FE-B655-C3AA2F10D233}|SzamlazzHuSDK\\SzamlazzHuSDK.csproj|c:\\users\\tibor\\source\\repos\\szamlazz-hu-sdk\\szamlazzhusdk\\createinvoicerequest.sbn||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3FFD8551-5C67-45FE-B655-C3AA2F10D233}|SzamlazzHuSDK\\SzamlazzHuSDK.csproj|solutionrelative:szamlazzhusdk\\createinvoicerequest.sbn||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFD8551-5C67-45FE-B655-C3AA2F10D233}|SzamlazzHuSDK\\SzamlazzHuSDK.csproj|c:\\users\\tibor\\source\\repos\\szamlazz-hu-sdk\\szamlazzhusdk\\xml\\xmlparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFD8551-5C67-45FE-B655-C3AA2F10D233}|SzamlazzHuSDK\\SzamlazzHuSDK.csproj|solutionrelative:szamlazzhusdk\\xml\\xmlparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFD8551-5C67-45FE-B655-C3AA2F10D233}|SzamlazzHuSDK\\SzamlazzHuSDK.csproj|c:\\users\\tibor\\source\\repos\\szamlazz-hu-sdk\\szamlazzhusdk\\model\\invoiceheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFD8551-5C67-45FE-B655-C3AA2F10D233}|SzamlazzHuSDK\\SzamlazzHuSDK.csproj|solutionrelative:szamlazzhusdk\\model\\invoiceheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF91F31-35F2-4672-B1A8-BCB5AB8F9B31}|SzamlazzHuTest\\SzamlazzHuTest.csproj|c:\\users\\tibor\\source\\repos\\szamlazz-hu-sdk\\szamlazzhutest\\testgetinvoiceresponse.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2BF91F31-35F2-4672-B1A8-BCB5AB8F9B31}|SzamlazzHuTest\\SzamlazzHuTest.csproj|solutionrelative:szamlazzhutest\\testgetinvoiceresponse.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF91F31-35F2-4672-B1A8-BCB5AB8F9B31}|SzamlazzHuTest\\SzamlazzHuTest.csproj|c:\\users\\tibor\\source\\repos\\szamlazz-hu-sdk\\szamlazzhutest\\invoicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF91F31-35F2-4672-B1A8-BCB5AB8F9B31}|SzamlazzHuTest\\SzamlazzHuTest.csproj|solutionrelative:szamlazzhutest\\invoicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFD8551-5C67-45FE-B655-C3AA2F10D233}|SzamlazzHuSDK\\SzamlazzHuSDK.csproj|c:\\users\\tibor\\source\\repos\\szamlazz-hu-sdk\\szamlazzhusdk\\requests\\getinvoiceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFD8551-5C67-45FE-B655-C3AA2F10D233}|SzamlazzHuSDK\\SzamlazzHuSDK.csproj|solutionrelative:szamlazzhusdk\\requests\\getinvoiceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFD8551-5C67-45FE-B655-C3AA2F10D233}|SzamlazzHuSDK\\SzamlazzHuSDK.csproj|c:\\users\\tibor\\source\\repos\\szamlazz-hu-sdk\\szamlazzhusdk\\szamlazzhuapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFD8551-5C67-45FE-B655-C3AA2F10D233}|SzamlazzHuSDK\\SzamlazzHuSDK.csproj|solutionrelative:szamlazzhusdk\\szamlazzhuapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFD8551-5C67-45FE-B655-C3AA2F10D233}|SzamlazzHuSDK\\SzamlazzHuSDK.csproj|c:\\users\\tibor\\source\\repos\\szamlazz-hu-sdk\\szamlazzhusdk\\xml\\xmlrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFD8551-5C67-45FE-B655-C3AA2F10D233}|SzamlazzHuSDK\\SzamlazzHuSDK.csproj|solutionrelative:szamlazzhusdk\\xml\\xmlrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFD8551-5C67-45FE-B655-C3AA2F10D233}|SzamlazzHuSDK\\SzamlazzHuSDK.csproj|c:\\users\\tibor\\source\\repos\\szamlazz-hu-sdk\\szamlazzhusdk\\requests\\deleteinvoicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFD8551-5C67-45FE-B655-C3AA2F10D233}|SzamlazzHuSDK\\SzamlazzHuSDK.csproj|solutionrelative:szamlazzhusdk\\requests\\deleteinvoicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFD8551-5C67-45FE-B655-C3AA2F10D233}|SzamlazzHuSDK\\SzamlazzHuSDK.csproj|c:\\users\\tibor\\source\\repos\\szamlazz-hu-sdk\\szamlazzhusdk\\deleteinvoicerequest.sbn||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3FFD8551-5C67-45FE-B655-C3AA2F10D233}|SzamlazzHuSDK\\SzamlazzHuSDK.csproj|solutionrelative:szamlazzhusdk\\deleteinvoicerequest.sbn||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFD8551-5C67-45FE-B655-C3AA2F10D233}|SzamlazzHuSDK\\SzamlazzHuSDK.csproj|c:\\users\\tibor\\source\\repos\\szamlazz-hu-sdk\\szamlazzhusdk\\requests\\stornoinvoiceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFD8551-5C67-45FE-B655-C3AA2F10D233}|SzamlazzHuSDK\\SzamlazzHuSDK.csproj|solutionrelative:szamlazzhusdk\\requests\\stornoinvoiceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFD8551-5C67-45FE-B655-C3AA2F10D233}|SzamlazzHuSDK\\SzamlazzHuSDK.csproj|c:\\users\\tibor\\source\\repos\\szamlazz-hu-sdk\\szamlazzhusdk\\requests\\deleteinvoiceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFD8551-5C67-45FE-B655-C3AA2F10D233}|SzamlazzHuSDK\\SzamlazzHuSDK.csproj|solutionrelative:szamlazzhusdk\\requests\\deleteinvoiceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "getInvoiceRequest.sbn",
+              "DocumentMoniker": "C:\\Users\\Tibor\\source\\repos\\szamlazz-hu-sdk\\SzamlazzHuSDK\\getInvoiceRequest.sbn",
+              "RelativeDocumentMoniker": "SzamlazzHuSDK\\getInvoiceRequest.sbn",
+              "ToolTip": "C:\\Users\\Tibor\\source\\repos\\szamlazz-hu-sdk\\SzamlazzHuSDK\\getInvoiceRequest.sbn",
+              "RelativeToolTip": "SzamlazzHuSDK\\getInvoiceRequest.sbn",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-17T07:56:05.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "stornoInvoiceRequest.sbn",
+              "DocumentMoniker": "C:\\Users\\Tibor\\source\\repos\\szamlazz-hu-sdk\\SzamlazzHuSDK\\stornoInvoiceRequest.sbn",
+              "RelativeDocumentMoniker": "SzamlazzHuSDK\\stornoInvoiceRequest.sbn",
+              "ToolTip": "C:\\Users\\Tibor\\source\\repos\\szamlazz-hu-sdk\\SzamlazzHuSDK\\stornoInvoiceRequest.sbn",
+              "RelativeToolTip": "SzamlazzHuSDK\\stornoInvoiceRequest.sbn",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-17T07:49:01.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "testGetInvoiceResponse.xml",
+              "DocumentMoniker": "C:\\Users\\Tibor\\source\\repos\\szamlazz-hu-sdk\\SzamlazzHuTest\\testGetInvoiceResponse.xml",
+              "RelativeDocumentMoniker": "SzamlazzHuTest\\testGetInvoiceResponse.xml",
+              "ToolTip": "C:\\Users\\Tibor\\source\\repos\\szamlazz-hu-sdk\\SzamlazzHuTest\\testGetInvoiceResponse.xml",
+              "RelativeToolTip": "SzamlazzHuTest\\testGetInvoiceResponse.xml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAC4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-05-17T07:18:30.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InvoiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Tibor\\source\\repos\\szamlazz-hu-sdk\\SzamlazzHuTest\\InvoiceTest.cs",
+              "RelativeDocumentMoniker": "SzamlazzHuTest\\InvoiceTest.cs",
+              "ToolTip": "C:\\Users\\Tibor\\source\\repos\\szamlazz-hu-sdk\\SzamlazzHuTest\\InvoiceTest.cs",
+              "RelativeToolTip": "SzamlazzHuTest\\InvoiceTest.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwDEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:17:28.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvoiceHeader.cs",
+              "DocumentMoniker": "C:\\Users\\Tibor\\source\\repos\\szamlazz-hu-sdk\\SzamlazzHuSDK\\Model\\InvoiceHeader.cs",
+              "RelativeDocumentMoniker": "SzamlazzHuSDK\\Model\\InvoiceHeader.cs",
+              "ToolTip": "C:\\Users\\Tibor\\source\\repos\\szamlazz-hu-sdk\\SzamlazzHuSDK\\Model\\InvoiceHeader.cs",
+              "RelativeToolTip": "SzamlazzHuSDK\\Model\\InvoiceHeader.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:12:40.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetInvoiceResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Tibor\\source\\repos\\szamlazz-hu-sdk\\SzamlazzHuSDK\\Requests\\GetInvoiceResponse.cs",
+              "RelativeDocumentMoniker": "SzamlazzHuSDK\\Requests\\GetInvoiceResponse.cs",
+              "ToolTip": "C:\\Users\\Tibor\\source\\repos\\szamlazz-hu-sdk\\SzamlazzHuSDK\\Requests\\GetInvoiceResponse.cs",
+              "RelativeToolTip": "SzamlazzHuSDK\\Requests\\GetInvoiceResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:12:27.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "XmlParser.cs",
+              "DocumentMoniker": "C:\\Users\\Tibor\\source\\repos\\szamlazz-hu-sdk\\SzamlazzHuSDK\\Xml\\XmlParser.cs",
+              "RelativeDocumentMoniker": "SzamlazzHuSDK\\Xml\\XmlParser.cs",
+              "ToolTip": "C:\\Users\\Tibor\\source\\repos\\szamlazz-hu-sdk\\SzamlazzHuSDK\\Xml\\XmlParser.cs",
+              "RelativeToolTip": "SzamlazzHuSDK\\Xml\\XmlParser.cs",
+              "ViewState": "AQIAANUAAAAAAAAAAAA3wO0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:08:49.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StornoInvoiceRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Tibor\\source\\repos\\szamlazz-hu-sdk\\SzamlazzHuSDK\\Requests\\StornoInvoiceRequest.cs",
+              "RelativeDocumentMoniker": "SzamlazzHuSDK\\Requests\\StornoInvoiceRequest.cs",
+              "ToolTip": "C:\\Users\\Tibor\\source\\repos\\szamlazz-hu-sdk\\SzamlazzHuSDK\\Requests\\StornoInvoiceRequest.cs",
+              "RelativeToolTip": "SzamlazzHuSDK\\Requests\\StornoInvoiceRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:07:26.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "createInvoiceRequest.sbn",
+              "DocumentMoniker": "C:\\Users\\Tibor\\source\\repos\\szamlazz-hu-sdk\\SzamlazzHuSDK\\createInvoiceRequest.sbn",
+              "RelativeDocumentMoniker": "SzamlazzHuSDK\\createInvoiceRequest.sbn",
+              "ToolTip": "C:\\Users\\Tibor\\source\\repos\\szamlazz-hu-sdk\\SzamlazzHuSDK\\createInvoiceRequest.sbn",
+              "RelativeToolTip": "SzamlazzHuSDK\\createInvoiceRequest.sbn",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-17T07:06:50.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SzamlazzHuApi.cs",
+              "DocumentMoniker": "C:\\Users\\Tibor\\source\\repos\\szamlazz-hu-sdk\\SzamlazzHuSDK\\SzamlazzHuApi.cs",
+              "RelativeDocumentMoniker": "SzamlazzHuSDK\\SzamlazzHuApi.cs",
+              "ToolTip": "C:\\Users\\Tibor\\source\\repos\\szamlazz-hu-sdk\\SzamlazzHuSDK\\SzamlazzHuApi.cs",
+              "RelativeToolTip": "SzamlazzHuSDK\\SzamlazzHuApi.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCUAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:09:12.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "XMLRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\Tibor\\source\\repos\\szamlazz-hu-sdk\\SzamlazzHuSDK\\Xml\\XMLRenderer.cs",
+              "RelativeDocumentMoniker": "SzamlazzHuSDK\\Xml\\XMLRenderer.cs",
+              "ToolTip": "C:\\Users\\Tibor\\source\\repos\\szamlazz-hu-sdk\\SzamlazzHuSDK\\Xml\\XMLRenderer.cs",
+              "RelativeToolTip": "SzamlazzHuSDK\\Xml\\XMLRenderer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:08:50.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "deleteInvoiceRequest.sbn",
+              "DocumentMoniker": "C:\\Users\\Tibor\\source\\repos\\szamlazz-hu-sdk\\SzamlazzHuSDK\\deleteInvoiceRequest.sbn",
+              "RelativeDocumentMoniker": "SzamlazzHuSDK\\deleteInvoiceRequest.sbn",
+              "ToolTip": "C:\\Users\\Tibor\\source\\repos\\szamlazz-hu-sdk\\SzamlazzHuSDK\\deleteInvoiceRequest.sbn",
+              "RelativeToolTip": "SzamlazzHuSDK\\deleteInvoiceRequest.sbn",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-17T07:07:52.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StornoInvoiceResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Tibor\\source\\repos\\szamlazz-hu-sdk\\SzamlazzHuSDK\\Requests\\StornoInvoiceResponse.cs",
+              "RelativeDocumentMoniker": "SzamlazzHuSDK\\Requests\\StornoInvoiceResponse.cs",
+              "ToolTip": "C:\\Users\\Tibor\\source\\repos\\szamlazz-hu-sdk\\SzamlazzHuSDK\\Requests\\StornoInvoiceResponse.cs",
+              "RelativeToolTip": "SzamlazzHuSDK\\Requests\\StornoInvoiceResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:07:30.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeleteInvoiceResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Tibor\\source\\repos\\szamlazz-hu-sdk\\SzamlazzHuSDK\\Requests\\DeleteInvoiceResponse.cs",
+              "RelativeDocumentMoniker": "SzamlazzHuSDK\\Requests\\DeleteInvoiceResponse.cs",
+              "ToolTip": "C:\\Users\\Tibor\\source\\repos\\szamlazz-hu-sdk\\SzamlazzHuSDK\\Requests\\DeleteInvoiceResponse.cs",
+              "RelativeToolTip": "SzamlazzHuSDK\\Requests\\DeleteInvoiceResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:07:12.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeleteInvoiceRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Tibor\\source\\repos\\szamlazz-hu-sdk\\SzamlazzHuSDK\\Requests\\DeleteInvoiceRequest.cs",
+              "RelativeDocumentMoniker": "SzamlazzHuSDK\\Requests\\DeleteInvoiceRequest.cs",
+              "ToolTip": "C:\\Users\\Tibor\\source\\repos\\szamlazz-hu-sdk\\SzamlazzHuSDK\\Requests\\DeleteInvoiceRequest.cs",
+              "RelativeToolTip": "SzamlazzHuSDK\\Requests\\DeleteInvoiceRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:07:06.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

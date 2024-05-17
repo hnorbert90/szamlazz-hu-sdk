@@ -23,7 +23,7 @@
         <!-- invoice number -->
         <keltDatum>{{ request.header.issue_date | date.to_string `%Y-%m-%d` }}</keltDatum>
         <!-- date of issue -->
-        <tipus>SS</tipus>
+        <tipus>{{request.header.type}}</tipus>
     </fejlec>
     <elado>
         <emailReplyto>{{ request.seller.email_address }}</emailReplyto>
