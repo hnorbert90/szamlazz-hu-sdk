@@ -65,7 +65,8 @@
         <!-- the number of the corrected invoice -->
         <dijbekero>{{ request.header.fee_collection }}</dijbekero>
         <!-- proform invoice -->
-        <szamlaszamElotag>{{ request.header.invoice_number_prefix }}</szamlaszamElotag>
+		<szallitolevel>{{ request.header.waybill }}</szallitolevel>
+		<szamlaszamElotag>{{ request.header.invoice_number_prefix }}</szamlaszamElotag>
         <!-- One of the prefixes from the invoice pad menu  -->
         <fizetve>{{ request.header.paid }}</fizetve>
 		<!-- Codomain: 'SzlaMost' | 'SzlaAlap' | 'SzlaNoEnv' | 'Szla8cm' | 'SzlaTomb' | 'SzlaFuvarlevelesAlap'-->
