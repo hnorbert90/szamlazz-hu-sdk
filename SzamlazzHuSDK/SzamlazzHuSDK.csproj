@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <PackageId>szamlazz-hu-sdk-CloudScape</PackageId>
-    <Version>1.6.4.1</Version>
+    <Version>1.6.4.2</Version>
     <Authors>Gabor Angyal,Fiatal Tibor</Authors>
     <Description>SDK for the Számlázz.hu billing software</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
