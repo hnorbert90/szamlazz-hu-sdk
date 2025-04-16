@@ -8,6 +8,7 @@ namespace SzamlazzHu
         public Address PostalAddress { get; set; } = new Address();
         public string EmailAddress { get; set; }
         public bool SendEmail { get; set; }
+        public string GroupTaxNumber { get; set; }
         public string TaxNumber { get; set; }
         public string EuTaxNumber { get; set; }
         public string Identification { get; set; }

@@ -128,6 +128,7 @@ public static class XmlParser
             CustomerAddress = ParseAddress(node["cim"]),
             EmailAddress = GetString(node, "email"),
             TaxNumber = GetString(node, "adoszam"),
+            GroupTaxNumber = GetString(node, "csoportazonosito"),
             EuTaxNumber = GetString(node, "adoszamEU")
         };
     }
